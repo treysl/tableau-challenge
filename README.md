@@ -1,1 +1,3 @@
-# tableau-challenge
+# Citi Bike Project - New York
+
+#### Providing a ride-sharing program like Citi Bike can greatly benefit a community, as evidenced by the impressive 63,072 bike rides taken in March alone. This represents a significant amount of data to analyze. While most of the Citi Bike locations are concentrated in Hoboken and Jersey City in New York, there is also growing exposure in Bergen, where the median income is $51k-$61k. However, it is worth noting that the bulk of the revenue is derived from the higher income areas near the Hudson River, where the median income is $61k-$81k/year, as per the income data provided by the 2018 census.
